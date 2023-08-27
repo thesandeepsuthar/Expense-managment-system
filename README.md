@@ -19,3 +19,5 @@ Welcome to the Expense Management System project! This application is built usin
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT)
 - Data Visualization: Charts.js or other library of choice
+![Screenshot_2023_0827_092416](https://github.com/thesandeepsuthar/Expense-managment-system/assets/96325817/112b85d8-06bb-4899-9d5d-636975b9efe3)
+
